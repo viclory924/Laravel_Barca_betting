@@ -1,0 +1,7 @@
+AuthName "winzbet.com statistics"
+AuthType Basic
+AuthUserFile /home/winzbet/.stats-htpasswd
+require valid-user
+<Files .stats-htpasswd>
+deny from all
+</Files>

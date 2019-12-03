@@ -1,0 +1,15 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+.env
+.directory
+/vendor/
+/storage/
+/node_modules/
+resources/assets/img/payment-systems/Trustly.png
+public/img/payment-systems/Trustly.png
+public/js/old_layout

@@ -1,0 +1,40 @@
+<?php
+return [
+    'something_went_wrong' => 'Ошибка! Что-то пошло не так!',
+    'player_not_found' => 'Игрок не найден!',
+    'activation_code_incorrect' => 'Код активации неверный!',
+    'congrats' => 'Поздравляем!',
+    'account_activated' => 'Ваш аккаунт активирован! Теперь вы можете войти.',
+    'quick_registration' => '快速注册',
+    'full_registration' => '完整注册',
+    'currency' => '货币',
+    'password' => '密码',
+    'choose_register_option' => '请选择注册方法',
+    'create_free_account' => '请创建免费账户',
+    'repeat_password' => '请重复输入密码',
+    'enter_promocode' => '请输入优惠码',
+    'sign_up_2_steps' => '请创建免费账户 仅需轻松两步',
+    'country' => '国家',
+    'phone' => '电话',
+	'ready_1' => '准备赢',
+	'ready_2' => '吗',
+	'agreement' => '我已阅读并接受',
+	'terms_conditions_link' => '规则与条款',
+	'first_name' => '您的名字',
+	'last_name' => '您的姓氏',
+	'gender_male' => '男',
+	'gender_female' => '女',
+	'currency' => '货币',
+	'gender' => '性别',
+	'last_step' => '注册注册已基本完成——最后一步',
+	'city' => '城市',
+	'address' => '地址',
+	'postcode' => '邮编',
+	'promo_code' => '请输入优惠码',
+	'success_1' => '注册已完成。',
+	'success_2' => '请通过电子邮箱确认注册。',
+	'success_3' => '欲确认电子邮箱，请进入您的电子邮箱，打开我们的邮件并点击链接跳转。'
+	
+	
+
+];
